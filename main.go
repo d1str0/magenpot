@@ -18,7 +18,7 @@ import (
 )
 
 // Version of Magenpot, not of Magento
-const Version = "v0.2.4"
+const Version = "v0.2.5"
 const AgaveApp = "Magenpot"
 
 type App struct {
